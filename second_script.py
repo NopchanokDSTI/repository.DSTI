@@ -1,1 +1,1 @@
-print(second script")
+print("second script")
